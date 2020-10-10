@@ -1,32 +1,52 @@
 
+
+body{
+	margin: 5% 10%;
+
+}
 .container{
-	background-color: #969409;
+	background-color: #fff2e6;
 	display: flex;
 	padding-bottom: 10px;
 	
 }
-
-img.pic{
-	margin-left: 10px;
+img.pica{
+	
 	float: left;
-	width: 30%;
+	width: 10%;
 	height: 1000px;
+	padding: 0px;
+	
+}
+img.pic{
+	
+	float: left;
+	width: 19%;
+	height: 1000px;
+	padding: 0px;
 	
 }
 ul{
 	list-style-type: square;
 }
 
-.lis{
-
-	float: left;
+.picdiv{
 	
+	padding: 5px;
+	width: 100%;
+	
+
 }
 .pic3a{
-	display: inline;
-	float: right;
+		
+	width: 45%;
+	float: left;
+	text-align:  center;
+	
 }
 .pic3{
+	width: 45%;
+	
 	float: right;
 }
 .asd{
@@ -34,6 +54,8 @@ ul{
 }
 .we{
 	display: grid;
+	width: 50%;
+
 }
 
 .footer{
