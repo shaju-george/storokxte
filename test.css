@@ -1,0 +1,93 @@
+
+.container{
+	background-color: #969409;
+	display: flex;
+	padding-bottom: 10px;
+	
+}
+
+img.pic{
+	margin-left: 10px;
+	float: left;
+	width: 30%;
+	height: 1000px;
+	
+}
+ul{
+	list-style-type: square;
+}
+
+.lis{
+
+	float: left;
+	
+}
+.pic3a{
+	display: inline;
+	float: right;
+}
+.pic3{
+	float: right;
+}
+.asd{
+
+}
+.we{
+	display: grid;
+}
+
+.footer{
+	color: white;
+	text-align: center;
+	align-items: center;
+	width: 100%;
+	bottom: 0;
+	position: relative;
+
+	background: #1f1f1d;
+	opacity: .9;
+}
+
+.but{
+	background-color: skyblue;
+	color: white;
+
+}
+
+.but:hover{
+	background-color: red;
+}
+
+.pic11{
+	float: right;
+}
+
+.apple{
+	background: #96962c;
+	padding: 5px;
+	display: flex;
+}
+.grapes{
+	width: 50%;
+	display: block;
+}
+.banana{
+	align-items: center;
+	padding: 5px;
+	width: 20%;
+	display: grid;
+	height: 300px;
+	background-color: #b0b03c;
+
+}
+.pic12{
+	margin: 10px;
+	float: right;
+}
+.pic13{
+
+	float: right;
+}
+.inner{
+	display: inline;
+}
